@@ -1,4 +1,5 @@
 ```diff
+- Diğer erişim olamayan githup hesabından çekildi sadece çok eski bir kütüphanedir
 - bu kütüphane artık geliştirilmemektedir;
 + Sebeb ; Android 11 ile birlikte Google AsyncTask sınıfını kullanımdan kaldırılmıştır.
 ```
